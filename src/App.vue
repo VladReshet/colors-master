@@ -7,9 +7,6 @@
   </div>
 </template>
 <style lang="scss">
-  body {
-    background-image: url('/bg.png')
-  }
   .view {
     position: relative;
   }

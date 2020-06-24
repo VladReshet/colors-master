@@ -232,7 +232,6 @@
   $unknown-width: 53.1vmin;
 
   body {
-    background-image: url(/bg.png);
     background-size: cover;
   }
 
