@@ -1,3 +1,7 @@
+https://vladreshet.github.io/colors-master/
+
+![alt text](demo.jpg)
+
 ## Project setup
 ```
 npm install
@@ -8,7 +12,7 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for getting static build
 ```
 npm run build
 ```
