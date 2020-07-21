@@ -12,8 +12,7 @@ Vue.use({
             BLUE: '#5f5fff',
             RED: '#f75656',
             YELLOW: '#fbfb00',
-            PURPLE: '#e064e0',
-            ORANGE: '#e49300'
+            PURPLE: '#e064e0'
         };
     }
 });

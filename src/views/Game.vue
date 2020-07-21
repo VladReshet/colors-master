@@ -77,12 +77,6 @@
   import ColorPicker from '@/components/ColorPicker.vue'
   import {eventBus} from '@/eventBus.js'
 
-  const getRandomColor = colors => {
-    const list = Object.values(colors);
-
-    return list[(Math.random()  * list.length) >> 0];
-  }
-
   class Turn {
     constructor () {
       this.state = 'in-progress';
@@ -204,7 +198,7 @@
         this.$set(this.turns[this.current], 'results', result);
       },
       nextTurn () {
-        if (this.turns.length === 7) {
+        if (this.turns.length === 9) {
           return this.fail();
         }
 

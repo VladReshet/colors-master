@@ -112,7 +112,7 @@
       position: absolute;
       bottom: -13vmin;
       z-index: 9;
-      width: 74vmin;
+      width: 60vmin;
       left: -15vmin;
       padding: 1.5vmin 0;
       background-color: rgba(255, 255, 255, 0.7);
